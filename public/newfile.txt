@@ -1,0 +1,3 @@
+<h1 style="text-align:center"><span style="color:#1abc9c"><strong>Article Title</strong></span></h1>
+
+<p style="text-align:center"><span style="background-color:#f1c40f">Here&#39;s some sample text</span></p>
